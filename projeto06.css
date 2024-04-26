@@ -26,6 +26,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -157,3 +158,5 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+
+
